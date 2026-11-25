@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   upgradeType: 0
   icon: {fileID: 21300000, guid: ae5c4436b9b1bf349ad69c0478389277, type: 3}
-  title: "\u66B4\u51FB\u51E0\u7387"
+  title: "\u4F1A\u5FC3\u51E0\u7387"
   description: "\u63D0\u5347\u4F60\n\n\u9020\u6210\u66B4\u51FB\u7684\u51E0\u7387"
   statsText: '{0}%><color=#75F05F>{1}%</color>'
   initialValue: 0

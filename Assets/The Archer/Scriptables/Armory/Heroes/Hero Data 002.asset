@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Hero Data 002
   m_EditorClassIdentifier: 
   guid: cac0e516b6d94f74c987f267d29b901b
-  heroName: "\u76D7\u8D3C"
+  heroName: "\u77F3\u6591"
   icon: {fileID: 21300000, guid: 70e9151af1b5ad74a808c76f7da8e37b, type: 3}
   prefab: {fileID: 7506892982150187424, guid: 07c601f2f72115c4d8c6c24e32ee25a9, type: 3}
   isDefaultHero: 0

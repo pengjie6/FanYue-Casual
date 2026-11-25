@@ -1193,7 +1193,7 @@ PrefabInstance:
     - target: {fileID: 2355152399712804049, guid: 45c5541ea8cbd194f8138524693fa094, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: dd3db20c770d5e440944a9710d76fe09, type: 3}
+      objectReference: {fileID: 21300000, guid: cd4be8ac0a9ad6944a41b489f65a5ffd, type: 3}
     - target: {fileID: 8793823573447025109, guid: 45c5541ea8cbd194f8138524693fa094, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1541,11 +1541,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   adPlatformType: 0
-  AppId: ttcf6eb9d3511062bf02
+  AppId: ttc5aab3175bd752dc07
   videoAdIdList:
-  - dfc3lj96kgp4482hh1
+  - jj65jd8bq071fg9flk
   interAdIdList:
-  - 2qvqw5b5e7ll2bih3b
+  - 4a11efq760jpkgb545
 --- !u!114 &991000010
 MonoBehaviour:
   m_ObjectHideFlags: 0

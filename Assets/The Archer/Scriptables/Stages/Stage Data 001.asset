@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Stage Data 001
   m_EditorClassIdentifier: 
   stageImage: {fileID: 21300000, guid: 0ecb267e29e41b0429af5079375fd5a3, type: 3}
-  stageName: "\u5BC6\u5BA4"
+  stageName: "\u82D4\u77F3\u5C0F\u5F84"
   showStageObjective: 1
   stageObjective: "\u6E05\u9664\u5168\u90E8 28 \u4E2A\u623F\u95F4\u7684\u654C\u4EBA"
   stageMusic: {fileID: 11400000, guid: b1ff3aeba1a032048b384624765ff9df, type: 2}

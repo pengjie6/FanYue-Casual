@@ -17,7 +17,7 @@ MonoBehaviour:
   rarity: 1
   isRepeatedAbiltiy: 0
   isEndgameAbility: 0
-  title: "\u8DF3\u5F39"
+  title: "\u8DF3\u77F3"
   description: "\u7BAD\u77E2\u4F1A\u4ECE\u654C\u4EBA\u8EAB\u4E0A\u5F39\u5C04"
   icon: {fileID: 21300000, guid: a9e8ca1453e5f4f45a72f14b7ae6d928, type: 3}
   prefab: {fileID: 2119472561704035394, guid: 1aedde51d36ee0140b37ee7e2d2af74c, type: 3}

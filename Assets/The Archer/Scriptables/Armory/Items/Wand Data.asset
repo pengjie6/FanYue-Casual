@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   guid: 6cd5a72badbd219478cfbff02fc3a38e
   itemType: 0
-  itemName: "\u4EEA\u5F0F\u6CD5\u6756"
+  itemName: "\u82D4\u6728\u6CD5\u6756"
   icon: {fileID: 21300000, guid: f6381df618c33f148af69c84db65c3f5, type: 3}
   isDefaultItem: 0
   isUnlockedByDefault: 1

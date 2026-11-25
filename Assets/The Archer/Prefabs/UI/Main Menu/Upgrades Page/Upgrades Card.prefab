@@ -74,8 +74,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4282534243
-  m_fontColor: {r: 0.38823533, g: 0.28627452, b: 0.25882354, a: 1}
+    rgba: 4293129466
+  m_fontColor: {r: 0.9803922, g: 0.9568627, b: 0.8901961, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -927,7 +927,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u66B4\u51FB\u51E0\u7387"
+  m_text: "\u4F1A\u5FC3\u51E0\u7387"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 781095ea128f1d64884a9fd28a6cead2, type: 2}
   m_sharedMaterial: {fileID: -1362382178054292002, guid: 781095ea128f1d64884a9fd28a6cead2, type: 2}
@@ -1160,8 +1160,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281423244
-  m_fontColor: {r: 0.54901963, g: 0.33333334, b: 0.19215688, a: 1}
+    rgba: 4293129466
+  m_fontColor: {r: 0.9803922, g: 0.9568627, b: 0.8901961, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
